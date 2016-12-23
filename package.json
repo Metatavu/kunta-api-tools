@@ -1,0 +1,13 @@
+{
+  "name": "kunta-api-tools",
+  "description": "Kunta API tools",
+  "version": "0.0.1",
+  "contributors": [],
+  "dependencies": {
+    "async": "^2.1.4",
+    "express": "4.14.0",
+    "express-basic-auth": "^0.2.3",
+    "lodash": "^4.17.2"
+  },
+  "readmeFilename": "README.md"
+}
