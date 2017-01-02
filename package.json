@@ -1,7 +1,7 @@
 {
   "name": "kunta-api-tools",
   "description": "Kunta API tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "contributors": [],
   "dependencies": {
     "async": "^2.1.4",
