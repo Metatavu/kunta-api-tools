@@ -18,7 +18,8 @@
   });
   
   app.use(basicAuth({
-    users: config.users
+    users: config.users,
+    challenge: true
   }));
 
   app.get('/:organization/vcards', (req, res) => {
